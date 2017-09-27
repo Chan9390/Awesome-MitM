@@ -23,3 +23,4 @@ This resource was made by and made to developers and hackers alike! I appreciate
 
 - [Chandrapal](https://github.com/Chan9390)
 - [Aan](https://github.com/aancw)
+- [NeverMine17](https://github.com/NeverMine17)

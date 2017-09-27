@@ -17,9 +17,9 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://ettercap.github.io/ettercap/)
+### [Ettercap](https://github.com/Ettercap/ettercap)
 
-Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
+Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
 ### [FakeDns](https://github.com/Crypt0s/FakeDns)
 
