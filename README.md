@@ -67,4 +67,6 @@ An easy-to-deploy virtual machine that can provide flexible man-in-the-middle ca
 
 High-interaction MitM SSH honeypot
 
+## Contributions
 
+Please have a look at [contributing.md](contributing.md)
