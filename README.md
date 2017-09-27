@@ -9,7 +9,7 @@ A complete, modular, portable and easily extensible MITM framework
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
-### [dnschef](hhttps://github.com/iphelix/dnschef)
+### [dnschef](https://github.com/iphelix/dnschef)
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
