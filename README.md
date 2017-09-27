@@ -5,6 +5,18 @@ Curated list of MitM frameworks on GitHub
 
 A complete, modular, portable and easily extensible MITM framework
 
+### [CopyCat](https://github.com/compewter/CopyCat)
+
+CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
+
+### [dnschef](hhttps://github.com/iphelix/dnschef)
+
+DNSChef - DNS proxy for Penetration Testers and Malware Analysts
+
+### [dnsmitm](https://github.com/SySS-Research/dns-mitm)
+
+A minimal DNS service that can provide spoofed replies
+
 ### [FakeDns](https://github.com/Crypt0s/FakeDns)
 
 A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
@@ -29,6 +41,10 @@ An interactive TLS-capable intercepting HTTP proxy for penetration testers and s
 
 HTTP Man In The Middle (MITM) Proxy written in node.js
 
+### [postgres-mitm](https://github.com/thusoy/postgres-mitm)
+
+Test whether your Postgres connections are vulnerable to MitM attacks
+
 ### [tiny-mitm-proxy](https://github.com/floyd-fuh/tiny-mitm-proxy)
 
 Probably one of the smallest SSL MITM proxies you can make
@@ -44,6 +60,14 @@ SSH man-in-the-middle tool
 ### [sslsniff](https://github.com/moxie0/sslsniff)
 
 A tool for automated MITM attacks on SSL connections
+
+### [tornado](https://github.com/rebellionil/tornado)
+
+All in one MITM tool .
+
+### [warcprox](https://github.com/internetarchive/warcprox)
+
+WARC writing MITM HTTP/S proxy
 
 ### [websploit](https://github.com/websploit/websploit)
 
@@ -66,6 +90,10 @@ An easy-to-deploy virtual machine that can provide flexible man-in-the-middle ca
 ### [sshhipot](https://github.com/magisterquis/sshhipot)
 
 High-interaction MitM SSH honeypot
+
+### [suddensix](https://github.com/Neohapsis/suddensix)
+
+IPV6 MITM attack tool
 
 ## Contributions
 
